@@ -117,3 +117,4 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ## Contributions
 
 Please have a look at [contributing.md](contributing.md)
+| [IP-rotation-automation](https://github.com/maxpanel620/IP-rotation-automation) | A tool for automating IP rotation (or write a brief description of your tool). |
